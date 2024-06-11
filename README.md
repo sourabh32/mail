@@ -1,18 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Setup Instructions
 
-First, run the development server:
+1. **Clone the Repository**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+   ```bash
+   git clone https://github.com/your-username/email-classifier.git
+   cd email-classifier
 ```
+2. **Install Dependencies**
+
+3. **move .env.sample to .env**
+```mv .env.sample .env```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
